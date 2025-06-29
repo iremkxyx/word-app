@@ -1,0 +1,142 @@
+{
+  "fdgdfg": {
+    "password": "dgf",
+    "correct": 0,
+    "wrong": 0,
+    "daily_goal": 10
+  },
+  "irem": {
+    "password": "123",
+    "correct": 2,
+    "wrong": 14,
+    "daily_goal": 10,
+    "zayif_kelimeler": {
+      "abandon": 11,
+      "beneficial": 1,
+      "contribute": 1
+    }
+  },
+  "fdss": {
+    "password": "fsd",
+    "correct": 0,
+    "wrong": 0,
+    "daily_goal": 10
+  },
+  "fdssfds": {
+    "password": "fsd",
+    "correct": 0,
+    "wrong": 0,
+    "daily_goal": 10
+  },
+  "fggfd": {
+    "password": "gdfg",
+    "correct": 0,
+    "wrong": 0,
+    "daily_goal": 10
+  },
+  "dffs": {
+    "password": "dfdsfsd",
+    "correct": 1,
+    "wrong": 1,
+    "daily_goal": 10
+  },
+  "fdgdfggfdg": {
+    "password": "dgfg",
+    "correct": 0,
+    "wrong": 1,
+    "daily_goal": 10
+  },
+  "dffds": {
+    "password": "sdfs",
+    "correct": 0,
+    "wrong": 2,
+    "daily_goal": 10,
+    "zayif_kelimeler": {
+      "abandon": 1,
+      "demand": 1
+    }
+  },
+  "dsfsdfsdfsdf": {
+    "password": "dsfsd",
+    "correct": 0,
+    "wrong": 0,
+    "daily_goal": 10,
+    "zayif_kelimeler": {}
+  },
+  "tryrty": {
+    "password": "tyrtyr",
+    "correct": 0,
+    "wrong": 1,
+    "daily_goal": 10,
+    "zayif_kelimeler": {
+      "abandon": 1
+    }
+  },
+  "gdsffff": {
+    "password": "fdsf",
+    "correct": 0,
+    "wrong": 0,
+    "daily_goal": 10,
+    "zayif_kelimeler": {}
+  },
+  "a": {
+    "password": "123",
+    "correct": 0,
+    "wrong": 0,
+    "daily_goal": 10,
+    "zayif_kelimeler": {}
+  },
+  "dsf": {
+    "password": "dsf",
+    "correct": 0,
+    "wrong": 0,
+    "daily_goal": 10,
+    "zayif_kelimeler": {}
+  },
+  "sadasdasd": {
+    "password": "adsda",
+    "correct": 0,
+    "wrong": 2,
+    "daily_goal": 10,
+    "zayif_kelimeler": {
+      "abandon": 2
+    }
+  },
+  "ay\u015fe": {
+    "password": "123",
+    "correct": 0,
+    "wrong": 0,
+    "daily_goal": 10,
+    "zayif_kelimeler": {}
+  },
+  "aa": {
+    "password": "aa",
+    "correct": 4,
+    "wrong": 18,
+    "daily_goal": 10,
+    "zayif_kelimeler": {
+      "abandon": 3,
+      "beneficial": 6,
+      "sas": 1,
+      "emerge": 2,
+      "contribute": 1,
+      "demand": 1,
+      "coach": 1,
+      "finish": 1,
+      "alone": 1,
+      "decision": 1
+    },
+    "favori_kelimeler": [
+      "beneficial",
+      "admit"
+    ]
+  },
+  "ASl\u0131": {
+    "password": "ASl\u0131",
+    "correct": 0,
+    "wrong": 0,
+    "daily_goal": 10,
+    "zayif_kelimeler": {},
+    "favori": []
+  }
+}
